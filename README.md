@@ -5,7 +5,7 @@ I'm a <strong>Full Stack Software Engineer</strong> passionate about building mo
 </p>
 
 <p>
-I have over 2 years of experience developing web systems, working mainly with <strong>C#, .NET, PHP, Laravel, CodeIgniter, Vue.js</strong> and modern web technologies.
+I have over 2 years of experience developing web systems, working mainly with <strong>C#, .NET, PHP, Laravel, CodeIgniter, React, Vue.js</strong> and modern web technologies.
 </p>
 
 <p>
