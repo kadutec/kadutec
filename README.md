@@ -41,13 +41,7 @@ Currently, I'm focused on becoming an even better Software Engineer by studying 
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,docker,azure" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker" />
 </p>
 
 ---
