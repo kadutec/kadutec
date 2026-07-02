@@ -23,13 +23,13 @@ Currently, I'm focused on becoming an even better Software Engineer by studying 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,codeigniter" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=vue,react,js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=vue,react,js,html,css,bootstrap,jquery,figma" />
 </p>
 
 ### Database
